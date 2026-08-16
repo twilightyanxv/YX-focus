@@ -1,1 +1,0 @@
-import{d as a,D as t,o as e,c,b as o,t as i,m as r,_}from"./index-CbeeYo3v.js";const p={class:"coin-bar"},d={class:"coin-amount"},l=a({__name:"CoinBar",setup(m){const n=t();return(f,s)=>(e(),c("div",p,[s[0]||(s[0]=o("span",{class:"coin-icon"},"⭐",-1)),o("span",d,i(r(n).totalCoins),1)]))}}),C=_(l,[["__scopeId","data-v-3f38f49e"]]);export{C};
