@@ -1,1 +1,0 @@
-import{d as a,G as t,o as e,c,b as o,t as i,f as r,_}from"./index-BI-fYTRX.js";const p={class:"coin-bar"},d={class:"coin-amount"},f=a({__name:"CoinBar",setup(l){const n=t();return(m,s)=>(e(),c("div",p,[s[0]||(s[0]=o("span",{class:"coin-icon"},"⭐",-1)),o("span",d,i(r(n).totalCoins),1)]))}}),C=_(f,[["__scopeId","data-v-3f38f49e"]]);export{C};

@@ -1,1 +1,0 @@
-let e=null;function n(){if(e===null)try{e=typeof window<"u"&&"speechSynthesis"in window&&"SpeechSynthesisUtterance"in window}catch{e=!1}return e}function c(){try{n()&&window.speechSynthesis.cancel()}catch{}}export{c};
